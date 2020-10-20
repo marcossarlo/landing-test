@@ -1,5 +1,6 @@
 body {
     background-color: rgb(96, 14, 228);
+    background-image: url("images/fondo.jpg");
     color: cornsilk;
     padding: 1.3rem;
     border: 10px solid coral;    
