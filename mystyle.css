@@ -2,6 +2,10 @@ body {
     background-color: rgb(96, 14, 228);
     color: cornsilk;
     padding: 1.3rem;
-    border: 10px solid coral;
-    
+    border: 10px solid coral;    
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
 }
